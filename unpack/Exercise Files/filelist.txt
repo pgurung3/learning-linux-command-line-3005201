@@ -1,0 +1,14 @@
+total 160K
+drwxrwxrwx+ 7 codespace codespace 4.0K Aug 15 09:19 departments
+-rw-rw-rw-  1 codespace codespace  160 Aug 15 09:19 dupes.txt
+-rw-rw-rw-  1 codespace codespace    0 Aug 29 08:31 filelist.txt
+-rw-rw-rw-  1 codespace codespace 128K Aug 15 09:19 log.tar.gz
+-rw-rw-rw-  1 codespace codespace    0 Aug 23 09:27 newmew.txt
+-rw-rw-rw-  1 codespace codespace 1.5K Aug 15 09:19 poems.txt
+-rw-rw-rw-  1 codespace codespace  129 Aug 15 09:19 simple_data.txt
+-rw-r-xr-x  1 codespace codespace 1.5K Aug 18 09:20 ssome.txt
+-rwxrwxrwx  1 codespace codespace   73 Aug 18 09:31 test.sh
+drwxrwxrwx+ 2 codespace codespace 4.0K Aug 17 09:32 test_pp
+-rw-rw-rw-  1 codespace codespace 1.5K Aug 15 09:19 words.txt
+lrwxrwxrwx  1 codespace codespace    9 Aug 18 09:44 writing.txt -> poems.txt
+These are the list of files in Exercise Files.
